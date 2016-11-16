@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.banner {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 4rem;
+  background-color: rgba(0, 0, 0, .5);
+  max-height: : 500px;
+  color: white;
+}
+
+.content {
+  max-width: 50em;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
