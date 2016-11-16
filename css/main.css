@@ -13,13 +13,20 @@ html {
   background-color: rgba(0, 0, 0, .5);
   max-height: : 500px;
   color: white;
+  position: relative;
+  bottom: 75px;
+  left: 20px;
 }
 
 .content {
   max-width: 50em;
+  position: relative;
+  bottom: 75px;
+  left: 20px;
 }
 
 .img-flex {
   display: block;
   width: 100%;
+  position: absolute;
 }
