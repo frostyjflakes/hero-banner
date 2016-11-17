@@ -30,6 +30,8 @@ body {
   width: 100%;
   max-width: 50em;
   margin: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .banner-content h2,
