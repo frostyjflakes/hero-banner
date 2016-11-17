@@ -18,16 +18,14 @@ body {
   max-height: 500px;
   color: white;
   position: relative;
-  bottom: 75px;
-  left: 20px;
   overflow: hidden;
 }
 
 .content {
   max-width: 50em;
   position: absolute;
-  bottom: 75px;
-  left: 20px;
+  bottom: 1em;
+  left: 20%;
   transform: translateX(-50%);
   margin: 1rem;
 }
