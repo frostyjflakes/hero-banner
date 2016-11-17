@@ -12,22 +12,20 @@ body {
 }
 
 .banner {
-  display: inline;
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
   max-height: 500px;
   color: white;
-  position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
+  position: absolute;
 }
 
-.content {
+.banner-content {
   max-width: 50em;
-  position: absolute;
-  bottom: 1em;
-  left: 20%;
-  transform: translateX(-50%);
+  /*transform: translateX(-50%);*/
   margin: 1rem;
+  position: absolute;
+  top: 75%;
 }
 
 .img-flex {
