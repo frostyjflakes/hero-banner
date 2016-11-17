@@ -24,11 +24,11 @@ body {
 
 .banner-content {
   position: absolute;
-  bottom: 0.75em;
+  bottom: 1em;
   width: 100%;
   max-width: 50em;
   margin: 1rem;
-  left: 50%;
+  left: 51%;
   transform: translateX(-50%);
 }
 
