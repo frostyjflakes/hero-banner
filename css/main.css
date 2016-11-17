@@ -16,19 +16,16 @@ body {
   background-color: rgba(0, 0, 0, .5);
   max-height: 500px;
   color: white;
-  /*overflow: hidden;*/
   position: absolute;
   top: 7px;
   left: 40px;
   right: 105px;
-  /*border: ;*/
   font-weight: bold;
 }
 
 .banner-content {
   max-width: 50em;
   font-size: 2rem;
-  /*transform: translateX(-50%);*/
   margin: 1rem;
   position: absolute;
   bottom: 10px;
