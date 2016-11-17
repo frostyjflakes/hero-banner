@@ -32,6 +32,7 @@ body {
   margin: 1rem;
   left: 50%;
   transform: translateX(-50%);
+  margin-bottom: -1.5rem;
 }
 
 .banner-content h2,
