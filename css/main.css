@@ -43,7 +43,5 @@ body {
   display: block;
   width: 100%;
   position: relative;
-  left: 0.25em;
-  right: 0.25em;
   max-height: 500px;
 }
