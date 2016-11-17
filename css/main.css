@@ -32,12 +32,12 @@ body {
   margin: 1rem;
 }
 
-.banner-content h1,
+.banner-content h2,
 .banner-content p {
   margin: 0;
 }
 
-.banner-content h1 {
+.banner-content h2 {
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
   color: white;
