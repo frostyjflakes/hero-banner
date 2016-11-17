@@ -25,6 +25,7 @@ body {
 
 .content {
   max-width: 50em;
+  font-size: 2rem;
   position: relative;
   bottom: 75px;
   left: 20px;
