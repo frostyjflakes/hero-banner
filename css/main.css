@@ -18,23 +18,38 @@ body {
   color: white;
   /*overflow: hidden;*/
   position: absolute;
+  top: 7px;
+  left: 40px;
+  right: 105px;
+  /*border: ;*/
+  font-weight: bold;
 }
 
 .banner-content {
   max-width: 50em;
+  font-size: 2rem;
   /*transform: translateX(-50%);*/
   margin: 1rem;
   position: absolute;
-  top: 75%;
+  bottom: 10px;
+  left: 40px;
+  font-style: italic;
+  max-height: 500px;
 }
 
 .img-flex {
   display: block;
   width: 100%;
+  position: relative;
 }
 
-p {
-  font-size: 2rem;
-  font-style: italic;
-  font-weight: lighter;
+.img-flex h2 {
+  display: block;
+  width: 100%;
+  position: relative;
+  top:0em;
+  left: 0.25em;
+  right: 0.25em;
+  bottom: 0em;
+  max-height: 500px;
 }
