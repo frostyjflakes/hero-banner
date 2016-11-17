@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -12,7 +12,6 @@ body {
 }
 
 .banner {
-  font-family: "Open Sans", sans-serif;
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
   max-height: 500px;
